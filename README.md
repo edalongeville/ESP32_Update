@@ -1,5 +1,5 @@
 # ESP32_Test_Update
-Simple code to test remote update on an ESP32 module. 
+Simple code to test remote updating an ESP32 module from a webserver. 
 
 ## Content
 The ino file contains the code running on the ESP32.  
